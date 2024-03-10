@@ -42,7 +42,6 @@
 .Weather .unit {
     font-size: 16px;
     position: relative;
-    margin-left: 5px;
     color: rgb(33,33,33);
     font-weight: 400;
     top: -32px;
