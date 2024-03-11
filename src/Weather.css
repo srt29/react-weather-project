@@ -49,3 +49,7 @@
     line-height: 1;
 
 }
+
+.WeatherInfo-temperature {
+    margin: -70px 0 10px 70px;
+}
